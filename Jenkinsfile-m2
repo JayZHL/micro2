@@ -3,7 +3,7 @@ pipeline{
   stages{
     stage('Hello'){
       steps{
-        echo "hello againx3 from Jenkinsfile-m2"
+        echo "hello againx4 from Jenkinsfile-m2"
       }
     }
   }
